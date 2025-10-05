@@ -1,0 +1,6 @@
+leaf1a-dc-bld1	192.168.177.30
+leaf1b-dc-bld1	192.168.177.31
+leaf2-dc-bld1	192.168.177.32
+spine1-dc-bld1	192.168.177.16
+spine2-dc-bld1	192.168.177.17
+
